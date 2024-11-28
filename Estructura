@@ -1,0 +1,12 @@
+adivina_el_numero/
+├── diagrams/
+│   ├── diagrama_de_funcionalidad.png
+│   ├── diagrama_de_arquitectura.png
+│
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
